@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="Страница-1" id="uJeNtKjZSW0EqdWonFJv">
-    <mxGraphModel dx="815" dy="433" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1426" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -69,16 +69,16 @@
         <mxCell id="0bVruADz2DGO2-3Xxxby-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HR-отдел" vertex="1">
           <mxGeometry height="30" width="120" x="460" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="0bVruADz2DGO2-3Xxxby-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HR-отдел" vertex="1">
+        <mxCell id="0bVruADz2DGO2-3Xxxby-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Кандидаты" vertex="1">
           <mxGeometry height="30" width="120" x="780" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="0bVruADz2DGO2-3Xxxby-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HR-отдел" vertex="1">
+        <mxCell id="0bVruADz2DGO2-3Xxxby-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HR-менеджер" vertex="1">
           <mxGeometry height="30" width="120" x="1100" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="0bVruADz2DGO2-3Xxxby-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HR-отдел" vertex="1">
+        <mxCell id="0bVruADz2DGO2-3Xxxby-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Система" vertex="1">
           <mxGeometry height="30" width="120" x="1420" y="10" as="geometry" />
         </mxCell>
-        <mxCell id="0bVruADz2DGO2-3Xxxby-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HR-отдел" vertex="1">
+        <mxCell id="0bVruADz2DGO2-3Xxxby-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="IT-отдел" vertex="1">
           <mxGeometry height="30" width="120" x="1740" y="10" as="geometry" />
         </mxCell>
         <mxCell id="0bVruADz2DGO2-3Xxxby-32" edge="1" parent="1" source="0bVruADz2DGO2-3Xxxby-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="0bVruADz2DGO2-3Xxxby-30">
@@ -188,14 +188,66 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-24" edge="1" parent="1" source="TZ6sxpBPSztRuVJWIjaN-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TZ6sxpBPSztRuVJWIjaN-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TZ6sxpBPSztRuVJWIjaN-18" parent="1" style="rhombus;" value="Анкета подходит?" vertex="1">
           <mxGeometry height="30" width="215" x="412.5" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-27" edge="1" parent="1" source="TZ6sxpBPSztRuVJWIjaN-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TZ6sxpBPSztRuVJWIjaN-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="435" y="780" />
+              <mxPoint x="1160" y="780" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="TZ6sxpBPSztRuVJWIjaN-20" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Приглашение кандидата на собеседование" vertex="1">
           <mxGeometry height="60" width="110" x="380" y="710" as="geometry" />
         </mxCell>
         <mxCell id="TZ6sxpBPSztRuVJWIjaN-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Да" vertex="1">
           <mxGeometry height="30" width="60" x="380" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-23" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Уведомление об отказе" vertex="1">
+          <mxGeometry height="40" width="110" x="785" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Нет" vertex="1">
+          <mxGeometry height="30" width="60" x="600" y="630" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-29" edge="1" parent="1" source="TZ6sxpBPSztRuVJWIjaN-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TZ6sxpBPSztRuVJWIjaN-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-26" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Первичное собеседование" vertex="1">
+          <mxGeometry height="40" width="110" x="1105" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-33" edge="1" parent="1" source="TZ6sxpBPSztRuVJWIjaN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TZ6sxpBPSztRuVJWIjaN-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="850" y="870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-28" parent="1" style="rhombus;" value="Первичное успешно?" vertex="1">
+          <mxGeometry height="30" width="215" x="1052.5" y="860" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-30" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Да" vertex="1">
+          <mxGeometry height="30" width="60" x="1020" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Нет" vertex="1">
+          <mxGeometry height="30" width="60" x="1240" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-35" edge="1" parent="1" source="TZ6sxpBPSztRuVJWIjaN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TZ6sxpBPSztRuVJWIjaN-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-32" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Техническое собеседование" vertex="1">
+          <mxGeometry height="40" width="110" x="145" y="900" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-34" parent="1" style="rhombus;" value="Техническое успешно?" vertex="1">
+          <mxGeometry height="30" width="215" x="92.5" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Да" vertex="1">
+          <mxGeometry height="30" width="60" x="60" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Нет" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="950" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
