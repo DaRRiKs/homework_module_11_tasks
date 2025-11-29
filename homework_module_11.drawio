@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36" version="29.2.1">
   <diagram name="Страница-1" id="uJeNtKjZSW0EqdWonFJv">
-    <mxGraphModel dx="2377" dy="1262" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1783" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,8 +318,26 @@
         <mxCell id="TZ6sxpBPSztRuVJWIjaN-49" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Подтверждение оффера" vertex="1">
           <mxGeometry height="40" width="102.5" x="788.75" y="1240" as="geometry" />
         </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-54" edge="1" parent="1" source="TZ6sxpBPSztRuVJWIjaN-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="TZ6sxpBPSztRuVJWIjaN-53">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="TZ6sxpBPSztRuVJWIjaN-51" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Добавление сотрудника в базу данных" vertex="1">
           <mxGeometry height="40" width="141.25" x="1409.38" y="1320" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-56" edge="1" parent="1" source="TZ6sxpBPSztRuVJWIjaN-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="TZ6sxpBPSztRuVJWIjaN-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-53" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Уведомление IT-отдела о необходимости настройки рабочего места" vertex="1">
+          <mxGeometry height="70" width="170.62" x="434.69" y="1400" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-58" edge="1" parent="1" source="TZ6sxpBPSztRuVJWIjaN-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TZ6sxpBPSztRuVJWIjaN-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-55" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Настройка рабочего места" vertex="1">
+          <mxGeometry height="30" width="170.62" x="1714.69" y="1520" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-57" parent="1" style="shape=mxgraph.sysml.actFinal;html=1;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;" value="" vertex="1">
+          <mxGeometry height="40" width="40" x="1780" y="1580" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
