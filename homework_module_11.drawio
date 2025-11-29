@@ -225,6 +225,15 @@
             <mxPoint x="850" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-39" edge="1" parent="1" source="TZ6sxpBPSztRuVJWIjaN-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="TZ6sxpBPSztRuVJWIjaN-38">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1288" y="875" />
+              <mxPoint x="1288" y="900" />
+              <mxPoint x="840" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="TZ6sxpBPSztRuVJWIjaN-28" parent="1" style="rhombus;" value="Первичное успешно?" vertex="1">
           <mxGeometry height="30" width="215" x="1052.5" y="860" as="geometry" />
         </mxCell>
@@ -232,7 +241,7 @@
           <mxGeometry height="30" width="60" x="1020" y="850" as="geometry" />
         </mxCell>
         <mxCell id="TZ6sxpBPSztRuVJWIjaN-31" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Нет" vertex="1">
-          <mxGeometry height="30" width="60" x="1240" y="850" as="geometry" />
+          <mxGeometry height="30" width="60" x="1230" y="850" as="geometry" />
         </mxCell>
         <mxCell id="TZ6sxpBPSztRuVJWIjaN-35" edge="1" parent="1" source="TZ6sxpBPSztRuVJWIjaN-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TZ6sxpBPSztRuVJWIjaN-34">
           <mxGeometry relative="1" as="geometry" />
@@ -248,6 +257,9 @@
         </mxCell>
         <mxCell id="TZ6sxpBPSztRuVJWIjaN-37" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Нет" vertex="1">
           <mxGeometry height="30" width="60" x="280" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-38" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Первичное собеседование" vertex="1">
+          <mxGeometry height="40" width="110" x="785" y="920" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
