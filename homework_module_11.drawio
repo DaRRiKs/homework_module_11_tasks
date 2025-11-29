@@ -94,6 +94,15 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-2" edge="1" parent="1" source="0bVruADz2DGO2-3Xxxby-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="TZ6sxpBPSztRuVJWIjaN-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="640" y="295" />
+              <mxPoint x="640" y="320" />
+              <mxPoint x="200" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="0bVruADz2DGO2-3Xxxby-30" parent="1" style="rhombus;" value="Заявка соответствует требованиям?" vertex="1">
           <mxGeometry height="30" width="215" x="412.5" y="280" as="geometry" />
         </mxCell>
@@ -102,6 +111,12 @@
         </mxCell>
         <mxCell id="0bVruADz2DGO2-3Xxxby-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Да" vertex="1">
           <mxGeometry height="30" width="60" x="380" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-1" parent="1" style="html=1;dashed=0;whiteSpace=wrap;" value="Получение уведомления о доработке" vertex="1">
+          <mxGeometry height="30" width="155" x="122.5" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="TZ6sxpBPSztRuVJWIjaN-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Нет" vertex="1">
+          <mxGeometry height="30" width="60" x="600" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
